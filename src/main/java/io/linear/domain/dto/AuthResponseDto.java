@@ -1,4 +1,4 @@
-package io.linear.domain;
+package io.linear.domain.dto;
 
 import lombok.Data;
 
