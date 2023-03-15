@@ -1,9 +1,9 @@
-package io.linear.domain;
+package io.linear.domain.dto.userDto;
 
 import lombok.Data;
 
 @Data
-public class RegisterDto {
+public class LoginDto {
 	private String username;
 	private String password;
 }

@@ -1,6 +1,5 @@
 package io.linear.security;
 
-import io.linear.domain.User;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
